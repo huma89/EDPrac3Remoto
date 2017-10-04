@@ -1,2 +1,6 @@
 Primera linea
+<<<<<<< HEAD
 Línea añadida por prog1
+=======
+Añade línea prog2
+>>>>>>> 08786c3ac630ee4b6e82b4381d8cc3dcc6e4e85a
